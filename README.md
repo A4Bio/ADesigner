@@ -1,6 +1,6 @@
 # Cross-Gate MLP with Protein Complex Invariant Embedding is A One-Shot Antibody Designer
 
-This repository contains the code for the paper "Boosting the Power of Small Multimodal Reasoning Models to Match Larger Models with Self-Consistency Training". Our work focuses on enhancing the capabilities of smaller multimodal reasoning models to achieve performance comparable to larger models.
+This repository contains the code for the paper "Cross-Gate MLP with Protein Complex Invariant Embedding is A One-Shot Antibody Designer". Our work focuses on AI + antibody CDR region design.
 
 ## Abstract
 
