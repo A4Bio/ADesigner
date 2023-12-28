@@ -1,0 +1,10 @@
+__ddgcache__
+__pycache__
+__tmcache__
+TMscore
+TMscore.exe
+all_structures
+SabDab
+summaries
+wandb
+autotrain.py
